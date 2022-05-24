@@ -1,0 +1,61 @@
+.formlogin {
+  text-align: center;
+  padding: 150px 32px;
+}
+
+.formlogin .textarea .login {
+  background-color: none;
+  border: 1px white;
+  margin: auto;
+}
+
+.formlogin .textarea .login h1 {
+  color: black;
+}
+
+.formlogin .textarea .login label {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
+.formlogin .textarea .login input[type=text] {
+  outline: none;
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.formlogin .textarea .login input[type=email] {
+  outline: none;
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.formlogin .textarea .login input[type=password] {
+  outline: none;
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.formlogin .textarea .login button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=import.css.map */

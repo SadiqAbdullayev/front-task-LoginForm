@@ -1,0 +1,72 @@
+.formlogin {
+    text-align: center;
+    padding: 150px 32px;
+
+    .textarea {
+        .login {
+            background-color: none;
+            border: 1px white;
+            margin: auto;
+
+            h1 {
+                color: black;
+
+            }
+
+            label {
+                font-family: sans-serif;
+                font-size: 20px;
+                color: gray;
+            }
+
+            input[type=text] {
+                outline: none;
+                width: 20%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                box-sizing: border-box;
+            }
+            input[type=email] {
+                outline: none;
+                width: 20%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                box-sizing: border-box;
+            }
+
+            input[type=password] {
+                outline: none;
+                width: 20%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                box-sizing: border-box;
+
+            }
+
+            button {
+                background-color: green;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+            }
+
+            .n-member {}
+        }
+    }
+
+
+}
+
+.formlogin h1 {}
+
+.login {}
+
+.formlogin label {}
+
+.button {}
